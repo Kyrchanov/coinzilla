@@ -1,0 +1,138 @@
+h1, h2, h3, h4, h5, h6 {
+    font-size: 20px;
+}
+
+.test {
+    width: 20px;
+    height: 500px;
+    background: orangered;
+}
+
+.site-footer {
+    background: #182740;
+    color: #fff;
+}
+
+.site-footer a {
+    color: #fff;
+}
+
+input[type="text"].my-input {
+    background: #fff;
+    padding: 0 5px;
+    border-bottom: none;
+    color: #222;
+    box-sizing: border-box;
+}
+input[type="text"].my-input:focus {
+    border-bottom: none;
+    box-shadow: none;
+}
+
+.go {
+    background: orange;
+    font-weight: bold;
+    border: none;
+    position: absolute;
+    right: 3px;
+    top: 5px;
+    padding: 6px;
+}
+
+div.input {
+    position: relative;
+}
+.my-ads {
+    min-height: 190px;
+    background: #0D3F96;
+}
+.zilla {
+    height: 190px;
+    background: url(../images/coinzilla-join-us.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.footer-ablock {
+
+}
+
+.main-art h2 {
+    margin-bottom: 5px;
+}
+
+.main-art p {
+    margin: 3px 0;
+}
+
+.utp {
+    background-color: #182740;
+    padding: 55px 0;
+    font-family: 'Muli', sans-serif;
+    font-size: 14px;
+    
+}
+.hello-zilla {
+    background-image: url(../images/coinzilla-hello.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 10% 50%;
+}
+a{
+    color: orange;
+}
+a1{
+    color: dimgray;
+}
+
+.my-utp {
+    padding: 40px 0;
+}
+
+.mb100{
+    margin-bottom:-100px;
+}
+
+
+header {
+    background-color: #182740;
+    padding: 10px 0;
+    color: #fff;
+}
+
+.logo {
+    width: 115px;
+}
+
+.main-nav li {
+    float: left;
+    padding-left: 0;
+    padding-right: 30px;
+
+}
+.main-nav {
+    margin: 0;
+}
+
+.header-right.right button{
+    background:#182740 ;
+    color: white;
+    border: 1px solid orange;
+    font-family: 'Ubuntu', sans-serif;
+}
+   
+button{
+  
+    background: orange;
+    border-style: none;
+    color: white;
+    
+}
+
+
+@media screen and (max-width: 600px) {
+    .hello-zilla {
+        background-image: none;
+    }
+}
