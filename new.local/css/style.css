@@ -1,0 +1,155 @@
+
+#bg-banner{
+    background: url(../img/fon.png);
+  
+}
+
+.navi a {
+    color: #868b94 !important;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+#bg-banner h1{
+    color: white;
+    font-size: 52px;
+    font-weight: 600;
+    margin: 0px 90px;
+    margin-top: 175px;
+    position: absolute;
+}
+#bg-banner .text-one{
+    color: white;
+    font-size: 24px;
+    margin: 0px 90px;
+    margin-top: 290px;
+    position: absolute;
+}
+#bg-banner .text-two{
+    color: white;
+    font-size: 14px;
+    margin: 0px 90px;
+    margin-top: 350px;
+    position: absolute;
+}
+#bg-banner button{
+    border-radius: 5px;
+     border: none;
+    border: 0px solid #ccc;
+    color: white;
+    font-weight: 600;
+    background: #ffce54;
+    margin: 0px 165px;
+    margin-top: 350px;
+    position: absolute;
+}
+input[type="search"] {
+    padding: 7px;
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #fff;
+    color: #dbdddf;
+}
+input[type="submit"] {
+    margin: 0 20px;
+    padding: 9px;
+    border: none;
+    border: 0px solid #ccc;
+    border-radius: 5px;
+    background: #77c344;
+    color: aliceblue;
+    
+}
+.finde{
+   position: absolute;
+    padding: 500px;
+    margin: 0 -750px;
+}
+.slick-slider {
+    margin: 10px 30px;
+}
+.text-center {
+    text-align: center;
+    margin: 70px 0px;
+    font-size: 40px;
+    color: #5d6471;
+}
+
+#mb{
+    width: 650px;
+}
+#map iframe{
+    position: absolute;
+        margin: 35px 104px;
+}
+.item{
+    color: #5d6471;
+    font-size: 14px;
+}
+.wrap{
+    width: 55px;
+    display: inline-block;
+}
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color:#64a4d7;
+}
+
+.text-small{
+     text-align: center;
+    margin: 30px 0px;
+    font-size: 24px;
+    color: #5d6471;
+}
+.mail{
+    margin: 40px 310px;
+}
+input[type="find"] {
+    padding: 7px;
+    width: 570px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    background: #fff;
+    color: #dbdddf;
+}
+input[type="button"] {
+    margin: 0 20px;
+    width: 140px;
+    padding: 9px;
+    border: none;
+    border: 0px solid #ccc;
+    border-radius: 2px;
+    background: #77c344;
+    color: aliceblue;
+}
+#bg-footer{
+    background: url(../img/footer.png);
+}
+.footer{
+    margin: 15px 10px;
+}
+#slide{
+    background: url(../img/gray.png);
+    height: 550px;
+}
+
+.icon{
+    width: 55px;
+    display: inline-block;
+}
+.ship{
+    margin: 130px 46px;
+}
+.info{
+    margin: 110px 7px;
+}
+.main{
+    
+    margin: 32px 350px;
+    color: #4d5564;
+}
+
